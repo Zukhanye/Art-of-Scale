@@ -15,12 +15,12 @@ If the repo came from the Art of Scale Software Factory template ("Load my Art o
 
 ## 1. The Owner and the app
 <!-- sf-start fills this section -->
-- Owner: [name, role, company]
-- App: [one line: who it helps, with what]
-- Users: [who uses it]
+- Owner: Zukhanye, founder, Geo-Q (funds healthcare for South Africans without medical aid)
+- App: Data partner tracker: helps the founder track conversations with data partners (hospital groups, pharmacy chains, pathology labs) by stage and follow-up date
+- Users: the founder only
 - Current level: L3 (target: see docs/PROGRESS.md)
-- App class: [0 Sandbox · P Personal · N Shared utility · 1 Team pilot] (see `docs/LADDER.md`)
-- Backup person who can run this factory: [name]
+- App class: P Personal (organisation details only; no patient data, no people's contact details) (see `docs/LADDER.md`)
+- Backup person who can run this factory: [to be named]
 
 ## 2. Stack (default; change only with the Owner's agreement)
 - Vite + React + TypeScript, plain CSS or Tailwind

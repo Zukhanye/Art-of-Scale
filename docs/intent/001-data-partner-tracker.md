@@ -1,5 +1,5 @@
 # Art of Scale Contract 001: Data partner tracker
-Owner: Zukhanye (founder, Geo-Q) · Date: 2026-11-11 · Status: draft · Risk tier: High (login and per-user permissions)
+Owner: Zukhanye (founder, Geo-Q) · Date: 2026-11-11 · Status: approved (2026-11-11) · Risk tier: High (login and per-user permissions)
 <!-- The Owner approves this file. Plain English only. No technical detail. -->
 
 ## The problem
@@ -41,7 +41,7 @@ The founder logs in, sees every data partner and its stage in one list, and know
 - Never: patient data, contact details of people, sending messages, links to Geo-Q's core systems.
 
 ## Open questions
-- Roughly how many data partner conversations are live today, and where are they tracked now (spreadsheet, notebook, email)?
+- None. (Answered: partner conversations live in the founder's email today. They are retyped by hand as organisation, type and stage; emails are never copied or connected.)
 
 ## Decision log
 | # | Question | Decision |
@@ -50,4 +50,5 @@ The founder logs in, sees every data partner and its stage in one list, and know
 | 2 | Who uses it? | Just the founder → Class P |
 | 3 | Clinical data? | Business-level facts only; patient-level data is a hard stop |
 | 4 | Done today | Log in, add a data partner with type, data and stage, see it in my list; nobody else sees it |
+| 6 | Where tracked today? | Email. Move each conversation in by hand; no inbox connection |
 | 5 | Must never | Send emails or messages (plus factory rules: no personal data about others, no core systems) |
